@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on GitHub, DockerHub
 
-📫 Reach me at my website https://www.chrimson.net
+📫 Reach me at my website https://chrimson.net
 
 <!---
 chrimson/chrimson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
