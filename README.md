@@ -1,12 +1,14 @@
 👋 Hi, I’m @chrimson
 
-👀 I’m interested in Python, Kubernetes, AWS, web, cybersecurity
+👀 I’m interested in Go, Python, Android, Kubernetes, AWS, web, cybersecurity, DevOps
 
-🌱 I’m currently learning Node.js, Go, ELK
+🌱 I’m currently learning Go
 
 💞️ I’m looking to collaborate on GitHub, DockerHub
 
-📫 Reach me at my website https://chrimson.net
+🖥️ https://chrimson.net
+
+📒 https://chrimson.github.io
 
 <!---
 chrimson/chrimson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
