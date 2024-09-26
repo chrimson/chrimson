@@ -10,6 +10,8 @@
 
 📒 https://chrimson.github.io
 
+💼 https://www.linkedin.com/in/chrimson
+
 <!---
 chrimson/chrimson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
